@@ -13,7 +13,7 @@ This project implements a real-time hand gesture control system that adjusts sys
 👋 Visual Annotations (landmarks, lines, dynamic bars).
 💻 Cross-platform potential (volume on all platforms, brightness Windows-only).
 
-#Project Structure:
+# Project Structure:
 📂 Hand Gesture Control
  ├── handTrackingModule.py    # Hand detection and landmark extraction module
  ├── handtracking.py          # Basic hand landmark visualization
