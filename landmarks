@@ -1,0 +1,25 @@
+In MediaPipe Hand Tracking, each hand has 21 landmarks, representing key points on the hand, including the wrist, fingers, and fingertips.
+
+
+ID |  Landmark  | Location
+0 	 Wrist	      Base of the hand
+1 	 Thumb CMC	  Base of the thumb (Carpometacarpal joint)
+2 	 Thumb MCP	  Thumb's first joint (Metacarpophalangeal)
+3 	 Thumb IP	  Thumb's second joint (Interphalangeal)
+4 	 Thumb Tip	  End of the thumb
+5 	 Index MCP	  Base joint of the index finger
+6	 Index PIP	  Middle joint of the index finger
+7	 Index DIP	  Tip joint of the index finger
+8	 Index Tip	  End of the index finger
+9	 Middle MCP	  Base joint of the middle finger
+10	 Middle PIP	  Middle joint of the middle finger
+11	 Middle DIP	  Tip joint of the middle finger
+12	 Middle Tip	  End of the middle finger
+13	 Ring MCP	  Base joint of the ring finger
+14	 Ring PIP	  Middle joint of the ring finger
+15	 Ring DIP	  Tip joint of the ring finger
+16	 Ring Tip	  End of the ring finger
+17	 Pinky MCP	  Base joint of the pinky finger
+18	 Pinky PIP	  Middle joint of the pinky finger
+19	 Pinky DIP	  Tip joint of the pinky finger
+20	 Pinky Tip	  End of the pinky finger
